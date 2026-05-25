@@ -1,0 +1,10 @@
+{
+  "name": "ecommerce-order-processing",
+  "version": "1.0.0",
+  "description": "Reverse ecommerce orders using a singly linked list",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/OrderLinkedList.js"
+  }
+}
